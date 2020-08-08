@@ -1,0 +1,1 @@
+# fastwego.dev
